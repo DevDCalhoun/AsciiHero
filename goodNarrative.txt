@@ -1,0 +1,18 @@
+0
+Hello Quest Hunter. I am glad to see your training is complete. 
+The nearby village is having issues with roaming
+creatures in the local caves and forests. 
+This is what your training has been for. Help us clear the nearby areas
+of these monsters and we will see about giving you a more important role in the village.
+1
+Thank you for your service in the previous task. The villagers are able to gather resources from the caves and
+forests safely. 
+There is something of concern that has happened though. The villagers have been talking of
+cultists in the area. They mostly come out at night and perform dark rituals. What they are doing I am not sure,
+but I know that it cannot be good. Please investigate and see what you can find out.
+2
+You have done much for this village. 
+But things are getting worse with the cult group by the village. They seem
+to be serving a dark god and are trying to summon him to improve their powers and possibly destroy the village.
+Please stop them from doing this before it is too late. If you are too late, you may be in for a fight. Prepare
+yourself before approaching them.

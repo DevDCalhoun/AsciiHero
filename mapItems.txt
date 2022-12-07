@@ -1,0 +1,69 @@
+Apple pie
+Health Potion
+Ale
+Whisky
+Orange
+Gold Sigil
+Rope
+Boots
+Cape
+Cloak
+Goblet
+Gloves
+Robe
+Scarf
+Veil
+Satchel
+Basket
+Glass Bottle
+Metal Box
+Cauldron
+Crate
+Cleaver
+Magic Sword
+Flask
+Ceramic Jug
+Kettle
+Paper Scroll
+Glass Vial
+Blanket
+Chain
+Fishing Rod
+Ladder
+Lock
+Key
+Fishing Net
+Tent
+Bear Trap
+Mead
+Butter
+Cheese
+Dried Fruit
+Wheat
+Oats
+Honey
+Fowl
+Fish
+Flour
+Milk
+Meat
+Chain
+Brooch
+Gold Ring
+Amber
+Amethyst
+Bloodstone
+Obsidian
+Tobacco
+Hammer
+Shovel
+Book
+Holy Water
+Hatchet
+Pickaxe
+Saw
+Quiver
+Sheath
+Bow
+Knife
+Parchment

@@ -1,0 +1,10 @@
+Monk
+Priest
+Peasant
+Town Scrier
+Beggar
+Faery
+Friendly Giant
+Healer
+Apothecary
+Knight

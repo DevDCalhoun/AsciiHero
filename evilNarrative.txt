@@ -1,0 +1,18 @@
+0
+Hello adventurer. Quest Hunter they call you, correct? I have an offer to make you. Me and my associates are
+working on a very important project, and the nearby village Quest Hunters and the village elder have been 
+snooping into our affairs. We will pay you very well if you get them off of our backs. 
+Do this for us and
+we will see about working together further. Now, leave my presence.
+-1
+Well, well, well... There is more to you than I first thought. Me and my associates are planning a ritual that
+will bring us great power. However, we must procure all the necessary materials to complete it, and some of these
+materials can only be found on the priests of the village nearby. If you can retrieve what we need and take care
+of the other meddling men in the caves and forests nearby then we will allow you to participate in the ritual with
+us and gain some power of your own.
+-2
+The ritual is happening tonight. The power that the dark god will grant us will be great. There is one slight
+issue though. The village Quest Hunters and the militia are planning an attack on us. 
+I have some spies that
+have supplied us with this information. You will be at the fore-front of our defense. Keep them busy long enough
+to allow us to complete the ritual, then we will destroy them all with our new-found power.
